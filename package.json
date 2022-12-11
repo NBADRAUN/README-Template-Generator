@@ -1,0 +1,22 @@
+{
+  "name": "readme-template-generator",
+  "version": "1.0.0",
+  "description": "Readme Template Generator using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NBADRAUN/README-Template-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NBADRAUN/README-Template-Generator/issues"
+  },
+  "homepage": "https://github.com/NBADRAUN/README-Template-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
