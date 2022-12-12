@@ -62,9 +62,8 @@ No tests provide at this time
 - WHEN I click on the links in the Table of Contents
 - THEN I am taken to the corresponding section of the README
 
-## Screenshot of Application:  
-
-
+## Video of Application:  
+[Untitled_ Dec 12, 2022 12_27 PM.webm](https://user-images.githubusercontent.com/114446244/207137001-9914ea6b-0a0b-4033-a537-3304015634e1.webm)
 
 ## Questions 
 - Github profile - https://github.com/NBADRAUN
