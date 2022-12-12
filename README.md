@@ -1,9 +1,9 @@
 
 
-# README generator 
+# Readme file generator 
 
 ## Description 
-Create a readme file using node.js and inquirer
+create a readme file using Node.js and Inquirer
 
 ## Table of Contents
 
@@ -17,28 +17,28 @@ Create a readme file using node.js and inquirer
 - [Questions](#questions)
 
 ## Installation
-Clone this github.  Then install node.js v18 and npm inquirer 8.2.4
+- Clone this repository - Install Node.js v18 - Install npm inquirer 8.2.4
 
 ## Usage
-once installation is completed, open your code editor and run node index
+Once installation is complete, open your code editor terminal and run node index
 
 ## License
 None
 
 ## Credits
-Non
+No collaborators at this time
 
 ## Features
 
-nothing to list
+No addtional features at this time
 
 ## Contribute
 
-fork this github repositiory 
+To contribute, fork this repository
 
 ## Tests
 
-no test data at this time
+No tests provide at this time
 
 ## User Story
 - AS A developer 
@@ -64,12 +64,10 @@ no test data at this time
 
 ## Screenshot of Application:  
 
-work-day-scheduler <br>
-<img src="assets\Untitled_ Dec 12, 2022 11_55 AM.webm" alt="Video of application">
 
 
 ## Questions 
 - Github profile - https://github.com/NBADRAUN
-- For any questions, please email me at nbadraun@gmail.com
+- For any questions, please email me at Nbadraun@gmail.com
     
     
